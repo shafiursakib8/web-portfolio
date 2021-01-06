@@ -1,0 +1,41 @@
+span{
+    color: orangered;
+}
+h1{
+    font-weight: 700;
+}
+.Half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%; 
+    float: left;
+}
+.Half-width img{
+    width: 70%;
+    margin-top: 5%;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+#link{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, salmon, tomato);
+    border-radius: 6px;
+}
+#boss{
+        text-decoration: none;
+        color: white;
+        padding: 10px 20px;
+        background-image: linear-gradient(45deg, salmon, tomato);
+        border-radius: 6px}
+.fuck image{
+    float: left;
+    width: 30%;
+    }
+.fuck{
+    width: 20%;
+    }
+   
